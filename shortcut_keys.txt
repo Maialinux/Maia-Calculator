@@ -1,0 +1,9 @@
+# DOCUMENTAÇÃO DE TECLAS ATALHOS Maiacalc 1.0
+
+tecla              [ c ]   =   clean display           =   limpa visor
+tecla              [ x ]   =   number squared          =   número ao quadrado
+tecla              [ r ]   =   square root             =   raiz quadrada = sqrt()
+tecla      [ BackSpace ]   =   delete character        =   apaga caracter
+tecla         [ Escape ]   =   exit the program        =   sai do programa
+teclas        [ Numpad ]   =   digits and operators    =   digitos e operadores
+teclas  [ Return,Enter ]   =   does the calculation    =   faz o cálculo
